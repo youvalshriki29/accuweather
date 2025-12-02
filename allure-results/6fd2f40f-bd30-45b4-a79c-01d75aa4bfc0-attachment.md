@@ -1,0 +1,235 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - list [ref=e7]:
+      - listitem [ref=e8]:
+        - link "For Business" [ref=e9] [cursor=pointer]:
+          - /url: https://afb.accuweather.com
+      - listitem [ref=e10]: "|"
+      - listitem [ref=e11]:
+        - link "Warnings" [ref=e12] [cursor=pointer]:
+          - /url: https://afb.accuweather.com/accuweather-skyguard
+      - listitem [ref=e13]:
+        - link "Data Suite" [ref=e14] [cursor=pointer]:
+          - /url: https://afb.accuweather.com/accuweather-data-suite
+      - listitem [ref=e15]:
+        - link "Forensics" [ref=e16] [cursor=pointer]:
+          - /url: https://afb.accuweather.com/accuweather-forensicservices
+      - listitem [ref=e17]:
+        - link "Advertising" [ref=e18] [cursor=pointer]:
+          - /url: https://advertising.accuweather.com/for-advertising/digital-advertising/
+      - listitem [ref=e19]:
+        - link "Superior Accuracy™" [ref=e20] [cursor=pointer]:
+          - /url: https://afb.accuweather.com/accuweathers-proven-superior-accuracy
+    - generic [ref=e22]:
+      - link [ref=e23] [cursor=pointer]:
+        - /url: /
+        - img [ref=e24]
+      - link "Rosh HaAyin, Central District 17°C" [ref=e30] [cursor=pointer]:
+        - /url: /en/il/rosh-haayin/212575/weather-forecast/212575
+        - heading "Rosh HaAyin, Central District" [level=1] [ref=e31]
+        - generic [ref=e32]: 17°C
+        - img [ref=e33]
+      - generic [ref=e35]:
+        - generic [ref=e37]:
+          - img [ref=e38]
+          - textbox "Address, City or Zip Code" [ref=e41]
+          - img [ref=e42] [cursor=pointer]
+          - generic [ref=e48] [cursor=pointer]:
+            - text: Location
+            - img "Chevron down" [ref=e49]
+        - link [ref=e51] [cursor=pointer]:
+          - /url: /en/videos
+          - img [ref=e52]
+        - img [ref=e55] [cursor=pointer]
+  - iframe [ref=e59]:
+    - img [ref=f29e5]
+  - generic [ref=e60]:
+    - generic [ref=e61]:
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - text: Showing
+          - strong [ref=e64]: "10"
+          - text: locations for
+          - strong [ref=e65]: "\"79901\""
+        - generic [ref=e66]:
+          - link "79901 El Paso, TX 79901 US" [ref=e67] [cursor=pointer]:
+            - /url: /web-api/three-day-redirect?key=GEO_-106%2E486%2c31%2E763&country=US&postalCode=79901&target=
+            - paragraph [ref=e68]: "79901"
+            - paragraph [ref=e69]: El Paso, TX 79901 US
+          - link "79901 El Jobo, 24 79901 MX" [ref=e70] [cursor=pointer]:
+            - /url: /web-api/three-day-redirect?key=GEO_-98%2E948%2c21%2E417&country=MX&postalCode=79901&target=
+            - paragraph [ref=e71]: "79901"
+            - paragraph [ref=e72]: El Jobo, 24 79901 MX
+          - link "799010 Agartala Secretariat, 26 799010 IN" [ref=e73] [cursor=pointer]:
+            - /url: /web-api/three-day-redirect?key=GEO_91%2E403%2c23%2E890&country=IN&postalCode=799010&target=
+            - paragraph [ref=e74]: "799010"
+            - paragraph [ref=e75]: Agartala Secretariat, 26 799010 IN
+          - link "799011 Jampuijala Colony, 26 799011 IN" [ref=e76] [cursor=pointer]:
+            - /url: /web-api/three-day-redirect?key=GEO_91%2E403%2c23%2E890&country=IN&postalCode=799011&target=
+            - paragraph [ref=e77]: "799011"
+            - paragraph [ref=e78]: Jampuijala Colony, 26 799011 IN
+          - link "799012 Gandhigram, 26 799012 IN" [ref=e79] [cursor=pointer]:
+            - /url: /web-api/three-day-redirect?key=GEO_91%2E403%2c23%2E890&country=IN&postalCode=799012&target=
+            - paragraph [ref=e80]: "799012"
+            - paragraph [ref=e81]: Gandhigram, 26 799012 IN
+          - link "799015 Narayanpur Bazar, 26 799015 IN" [ref=e82] [cursor=pointer]:
+            - /url: /web-api/three-day-redirect?key=GEO_91%2E403%2c23%2E890&country=IN&postalCode=799015&target=
+            - paragraph [ref=e83]: "799015"
+            - paragraph [ref=e84]: Narayanpur Bazar, 26 799015 IN
+          - link "799014 Agartala ONGC, 26 799014 IN" [ref=e85] [cursor=pointer]:
+            - /url: /web-api/three-day-redirect?key=GEO_91%2E403%2c23%2E890&country=IN&postalCode=799014&target=
+            - paragraph [ref=e86]: "799014"
+            - paragraph [ref=e87]: Agartala ONGC, 26 799014 IN
+          - link "799013 Abani Reangpara, 26 799013 IN" [ref=e88] [cursor=pointer]:
+            - /url: /web-api/three-day-redirect?key=GEO_91%2E582%2c23%2E201&country=IN&postalCode=799013&target=
+            - paragraph [ref=e89]: "799013"
+            - paragraph [ref=e90]: Abani Reangpara, 26 799013 IN
+          - link "799019 Gerald Drive, 799019 SG" [ref=e91] [cursor=pointer]:
+            - /url: /web-api/three-day-redirect?key=GEO_103%2E878%2c1%2E384&country=SG&postalCode=799019&target=
+            - paragraph [ref=e92]: "799019"
+            - paragraph [ref=e93]: Gerald Drive, 799019 SG
+          - link "799015 Gerald Drive, 799015 SG" [ref=e94] [cursor=pointer]:
+            - /url: /web-api/three-day-redirect?key=GEO_103%2E878%2c1%2E388&country=SG&postalCode=799015&target=
+            - paragraph [ref=e95]: "799015"
+            - paragraph [ref=e96]: Gerald Drive, 799015 SG
+      - generic [ref=e97]:
+        - heading "Around the Globe" [level=2] [ref=e98]:
+          - paragraph [ref=e99]: Around the Globe
+        - link "Hurricane Tracker" [ref=e100] [cursor=pointer]:
+          - /url: /en/hurricane
+          - heading "Hurricane Tracker" [level=3] [ref=e101]
+          - img [ref=e102]
+        - link "Severe Weather" [ref=e104] [cursor=pointer]:
+          - /url: /en/il/severe-weather
+          - heading "Severe Weather" [level=3] [ref=e105]
+          - img [ref=e106]
+        - link "Radar & Maps" [ref=e108] [cursor=pointer]:
+          - /url: /en/il/central-district/weather-radar
+          - heading "Radar & Maps" [level=3] [ref=e109]
+          - img [ref=e110]
+        - link "News" [ref=e112] [cursor=pointer]:
+          - /url: /en/weather-news
+          - heading "News" [level=3] [ref=e113]
+          - img [ref=e114]
+        - link "Video" [ref=e116] [cursor=pointer]:
+          - /url: /en/videos
+          - heading "Video" [level=3] [ref=e117]
+          - img [ref=e118]
+    - iframe [ref=e124]:
+      
+  - iframe [ref=e127]:
+    
+  - generic [ref=e129]:
+    - link "World" [ref=e130] [cursor=pointer]:
+      - /url: /en/world-weather
+    - img [ref=e131]
+    - link "Middle East" [ref=e133] [cursor=pointer]:
+      - /url: /en/middle-east-weather
+    - img [ref=e134]
+    - link "Israel" [ref=e136] [cursor=pointer]:
+      - /url: /en/il/israel-weather
+    - img [ref=e137]
+    - link "Central District" [ref=e139] [cursor=pointer]:
+      - /url: /en/il/m/central-district-weather
+    - img [ref=e140]
+    - link "Rosh HaAyin" [ref=e142] [cursor=pointer]:
+      - /url: /en/il/rosh-haayin/212575/weather-forecast/212575
+  - generic [ref=e143]:
+    - generic [ref=e146]:
+      - generic [ref=e147]:
+        - generic [ref=e148]:
+          - generic [ref=e149]: Company
+          - generic [ref=e150]:
+            - link "Proven Superior Accuracy™" [ref=e151] [cursor=pointer]:
+              - /url: https://corporate.accuweather.com/
+            - link "About AccuWeather" [ref=e152] [cursor=pointer]:
+              - /url: https://corporate.accuweather.com/company/about-us/
+            - link "Digital Advertising" [ref=e153] [cursor=pointer]:
+              - /url: https://advertising.accuweather.com/for-advertising/digital-advertising/
+            - link "Careers" [ref=e154] [cursor=pointer]:
+              - /url: https://corporate.accuweather.com/company/careers/
+            - link "Press" [ref=e155] [cursor=pointer]:
+              - /url: https://corporate.accuweather.com/newsroom/press-releases/
+            - link "Contact Us" [ref=e156] [cursor=pointer]:
+              - /url: /en/contact
+        - generic [ref=e157]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: https://www.facebook.com/AccuWeather
+            - img [ref=e159]
+          - link [ref=e163] [cursor=pointer]:
+            - /url: https://twitter.com/BreakingWeather
+            - img [ref=e164]
+      - generic [ref=e169]:
+        - generic [ref=e170]: Products & Services
+        - generic [ref=e171]:
+          - link "For Business" [ref=e172] [cursor=pointer]:
+            - /url: https://afb.accuweather.com/
+          - link "For Partners" [ref=e173] [cursor=pointer]:
+            - /url: https://partners.accuweather.com/
+          - link "For Advertising" [ref=e174] [cursor=pointer]:
+            - /url: https://advertising.accuweather.com/
+          - link "AccuWeather APIs" [ref=e175] [cursor=pointer]:
+            - /url: https://developer.accuweather.com/
+          - link "AccuWeather Connect" [ref=e176] [cursor=pointer]:
+            - /url: https://afb.accuweather.com/accuweather-connect-and-content-syndication
+          - generic: RealFeel® and RealFeel Shade™
+          - link "Personal Weather Stations" [ref=e177] [cursor=pointer]:
+            - /url: https://app.accuweather.com/products/ambient-weather-stations
+      - generic [ref=e178]:
+        - generic [ref=e179]:
+          - generic [ref=e180]: Apps & Downloads
+          - generic [ref=e181]:
+            - link "iPhone App" [ref=e182] [cursor=pointer]:
+              - /url: https://go.onelink.me/app/ef253ee1
+            - link "Android App" [ref=e183] [cursor=pointer]:
+              - /url: https://go.onelink.me/app/85d14e58
+            - link "See all Apps & Downloads" [ref=e184] [cursor=pointer]:
+              - /url: https://7482826.hs-sites.com/premium-plus
+        - generic [ref=e185]:
+          - generic [ref=e186]: Subscription Services
+          - generic [ref=e187]:
+            - link "AccuWeather Premium" [ref=e188] [cursor=pointer]:
+              - /url: https://wwwl.accuweather.com/premium_login.php
+            - link "AccuWeather Professional" [ref=e189] [cursor=pointer]:
+              - /url: https://wwwl.accuweather.com/pro_login.php
+      - generic [ref=e191]:
+        - generic [ref=e192]: More
+        - generic [ref=e193]:
+          - link "AccuWeather Ready" [ref=e194] [cursor=pointer]:
+            - /url: /en/accuweather-ready
+          - link "Business" [ref=e195] [cursor=pointer]:
+            - /url: /en/business
+          - link "Health" [ref=e196] [cursor=pointer]:
+            - /url: /en/health-wellness
+          - link "Hurricane" [ref=e197] [cursor=pointer]:
+            - /url: /en/hurricane
+          - link "Leisure and Recreation" [ref=e198] [cursor=pointer]:
+            - /url: /en/leisure-recreation
+          - link "Severe Weather" [ref=e199] [cursor=pointer]:
+            - /url: /en/il/severe-weather
+          - link "Space and Astronomy" [ref=e200] [cursor=pointer]:
+            - /url: /en/space-news
+          - link "Sports" [ref=e201] [cursor=pointer]:
+            - /url: /en/sports
+          - link "Travel" [ref=e202] [cursor=pointer]:
+            - /url: /en/travel
+          - link "Weather News" [ref=e203] [cursor=pointer]:
+            - /url: /en/weather-news
+    - generic [ref=e204]:
+      - generic [ref=e205]: © 2025 AccuWeather, Inc. "AccuWeather" and sun design are registered trademarks of AccuWeather, Inc. All Rights Reserved.
+      - generic [ref=e206]:
+        - link "Terms of Use" [ref=e207] [cursor=pointer]:
+          - /url: /en/legal
+        - text: "|"
+        - link "Privacy Policy" [ref=e208] [cursor=pointer]:
+          - /url: /en/privacy
+        - text: "|"
+        - link "Cookie Policy" [ref=e209] [cursor=pointer]:
+          - /url: /en/cookiepolicy
+        - text: "|"
+        - link "Data Sources" [ref=e210] [cursor=pointer]:
+          - /url: /en/data-sources
+```

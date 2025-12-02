@@ -1,0 +1,519 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - list [ref=e8]:
+        - listitem [ref=e9]:
+          - link "For Business" [ref=e10] [cursor=pointer]:
+            - /url: https://afb.accuweather.com
+        - listitem [ref=e11]: "|"
+        - listitem [ref=e12]:
+          - link "Warnings" [ref=e13] [cursor=pointer]:
+            - /url: https://afb.accuweather.com/accuweather-skyguard
+        - listitem [ref=e14]:
+          - link "Data Suite" [ref=e15] [cursor=pointer]:
+            - /url: https://afb.accuweather.com/accuweather-data-suite
+        - listitem [ref=e16]:
+          - link "Forensics" [ref=e17] [cursor=pointer]:
+            - /url: https://afb.accuweather.com/accuweather-forensicservices
+        - listitem [ref=e18]:
+          - link "Advertising" [ref=e19] [cursor=pointer]:
+            - /url: https://advertising.accuweather.com/for-advertising/digital-advertising/
+        - listitem [ref=e20]:
+          - link "Superior Accuracy™" [ref=e21] [cursor=pointer]:
+            - /url: https://afb.accuweather.com/accuweathers-proven-superior-accuracy
+      - generic [ref=e23]:
+        - link [ref=e24] [cursor=pointer]:
+          - /url: /
+          - img [ref=e25]
+        - img [ref=e32] [cursor=pointer]
+    - generic [ref=e36]:
+      - generic [ref=e38]:
+        - img [ref=e39]
+        - textbox "Search your Address, City or Zip Code" [ref=e42]: saxd
+        - img [ref=e43] [cursor=pointer]
+        - generic [ref=e49] [cursor=pointer]:
+          - text: Location
+          - img "Chevron down" [ref=e50]
+      - generic [ref=e52]:
+        - generic [ref=e53]: Recent Locations
+        - link "Rosh HaAyin Israel 18° C RealFeel® 17°" [ref=e56] [cursor=pointer]:
+          - /url: /web-api/three-day-redirect?key=212575&target=
+          - generic [ref=e58]: Rosh HaAyin
+          - generic [ref=e59]: Israel
+          - generic [ref=e60]:
+            - img [ref=e61]
+            - generic [ref=e62]: 18° C
+          - generic [ref=e63]: RealFeel® 17°
+  - iframe [ref=e66]:
+    
+  - iframe [ref=e68]:
+    - img [ref=f43e5]
+  - generic [ref=e69]:
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - link "Israel Weather Radar See more Israel Weather Radar" [ref=e72] [cursor=pointer]:
+          - /url: /en/il/national/weather-radar
+          - generic [ref=e73]:
+            - generic [ref=e74]: Israel Weather Radar
+            - generic [ref=e75]:
+              - text: See more
+              - img [ref=e76]
+          - img "Israel Weather Radar" [ref=e78]
+        - generic [ref=e79]:
+          - paragraph [ref=e80]:
+            - text: Israel Weather Conditions
+            - link "See more" [ref=e81] [cursor=pointer]:
+              - /url: /en/browse-locations/mea/il
+              - text: See more
+              - img [ref=e82]
+          - generic [ref=e84]:
+            - link "Ashdod 20°" [ref=e85] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=215613&target=
+              - generic [ref=e86]: Ashdod
+              - img [ref=e87]
+              - generic [ref=e89]: 20°
+            - link "Ashqelon 21°" [ref=e90] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=215614&target=
+              - generic [ref=e91]: Ashqelon
+              - img [ref=e92]
+              - generic [ref=e94]: 21°
+            - link "Bat Yam 21°" [ref=e95] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=212477&target=
+              - generic [ref=e96]: Bat Yam
+              - img [ref=e97]
+              - generic [ref=e99]: 21°
+            - link "Beersheba 18°" [ref=e100] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=215752&target=
+              - generic [ref=e101]: Beersheba
+              - img [ref=e102]
+              - generic [ref=e104]: 18°
+            - link "Bene Beraq 20°" [ref=e105] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=215839&target=
+              - generic [ref=e106]: Bene Beraq
+              - img [ref=e107]
+              - generic [ref=e109]: 20°
+            - link "Hadera 21°" [ref=e110] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=213124&target=
+              - generic [ref=e111]: Hadera
+              - img [ref=e112]
+              - generic [ref=e114]: 21°
+            - link "Haifa 20°" [ref=e115] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=213181&target=
+              - generic [ref=e116]: Haifa
+              - img [ref=e117]
+              - generic [ref=e119]: 20°
+            - link "Herzliyya 20°" [ref=e120] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=215837&target=
+              - generic [ref=e121]: Herzliyya
+              - img [ref=e122]
+              - generic [ref=e124]: 20°
+            - link "Holon 21°" [ref=e125] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=215838&target=
+              - generic [ref=e126]: Holon
+              - img [ref=e127]
+              - generic [ref=e129]: 21°
+            - link "Jerusalem 15°" [ref=e130] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=213225&target=
+              - generic [ref=e131]: Jerusalem
+              - img [ref=e132]
+              - generic [ref=e134]: 15°
+            - link "Kefar Sava 20°" [ref=e135] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=212472&target=
+              - generic [ref=e136]: Kefar Sava
+              - img [ref=e137]
+              - generic [ref=e139]: 20°
+            - link "Nazareth 16°" [ref=e140] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=214232&target=
+              - generic [ref=e141]: Nazareth
+              - img [ref=e142]
+              - generic [ref=e144]: 16°
+            - link "Netanya 21°" [ref=e145] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=212474&target=
+              - generic [ref=e146]: Netanya
+              - img [ref=e147]
+              - generic [ref=e149]: 21°
+            - link "Petah Tiqwa 20°" [ref=e150] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=212473&target=
+              - generic [ref=e151]: Petah Tiqwa
+              - img [ref=e152]
+              - generic [ref=e154]: 20°
+            - link "Ramat Aviv 21°" [ref=e155] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=215835&target=
+              - generic [ref=e156]: Ramat Aviv
+              - img [ref=e157]
+              - generic [ref=e159]: 21°
+            - link "Ramat Gan 22°" [ref=e160] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=215849&target=
+              - generic [ref=e161]: Ramat Gan
+              - img [ref=e162]
+              - generic [ref=e164]: 22°
+            - link "Ramla 19°" [ref=e165] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=212475&target=
+              - generic [ref=e166]: Ramla
+              - img [ref=e167]
+              - generic [ref=e169]: 19°
+            - link "Rehovot 21°" [ref=e170] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=212482&target=
+              - generic [ref=e171]: Rehovot
+              - img [ref=e172]
+              - generic [ref=e174]: 21°
+            - link "Rishon LeZiyyon 20°" [ref=e175] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=212476&target=
+              - generic [ref=e176]: Rishon LeZiyyon
+              - img [ref=e177]
+              - generic [ref=e179]: 20°
+            - link "Tel Aviv 22°" [ref=e180] [cursor=pointer]:
+              - /url: /web-api/three-day-redirect?key=215854&target=
+              - generic [ref=e181]: Tel Aviv
+              - img [ref=e182]
+              - generic [ref=e184]: 22°
+        - generic [ref=e185]:
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - generic [ref=e188]: Weather News
+              - link "See More" [ref=e189] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/weather-news
+                - generic [ref=e190]: See More
+                - img [ref=e191]
+            - generic [ref=e194]:
+              - link "Winter storm to ring in December, bring snow from Midwest to... 2 hours ago" [ref=e195] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/winter-weather/winter-storm-to-ring-in-december-from-midwest-to-northeast-bringing-travel-disrupting-heavy-snow/1839522
+                - generic [ref=e197]: Winter storm to ring in December, bring snow from Midwest to...
+                - generic [ref=e198]: 2 hours ago
+              - link "Skiers injured and rescued after avalanche on Austrian ski r... 5 days ago" [ref=e199] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/videos/skiers-injured-and-rescued-after-avalanche-on-austrian-ski-resort/5d28d1e5-351e-4567-8faa-0732a16be47f
+                - generic [ref=e201]: Skiers injured and rescued after avalanche on Austrian ski r...
+                - generic [ref=e202]: 5 days ago
+              - link "‘Once-in-300-years’ rain leaves Thai city flooded 1 week ago" [ref=e203] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/weather-news/once-in-300-years-rain-leaves-thai-city-flooded-and-maternity-ward-stranded/1838098
+                - generic [ref=e205]: ‘Once-in-300-years’ rain leaves Thai city flooded
+                - generic [ref=e206]: 1 week ago
+          - generic [ref=e207]:
+            - generic [ref=e209]: Winter Weather
+            - generic [ref=e211]:
+              - link "Snow and plunging temperatures trigger travel chaos across M... 9 hours ago" [ref=e212] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/videos/snow-and-plunging-temperatures-trigger-travel-chaos-across-missouri/53879282-9e24-4e47-9112-7a8f6e1e89fe
+                - generic [ref=e214]: Snow and plunging temperatures trigger travel chaos across M...
+                - generic [ref=e215]: 9 hours ago
+              - 'link "Ultimate winter skin care: Dermatologist-approved tips for c... 3 hours ago" [ref=e216] [cursor=pointer]':
+                - /url: https://www.accuweather.com/en/health-wellness/ultimate-winter-skin-care-dermatologist-approved-tips-for-cold-weather/1839998
+                - generic [ref=e218]: "Ultimate winter skin care: Dermatologist-approved tips for c..."
+                - generic [ref=e219]: 3 hours ago
+              - link "Pancake ice forms along Lake Superior shore after recent lak... 11 hours ago" [ref=e220] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/videos/wiashlandpancakeicevo/10d17ded-a9d8-4639-8711-3bd49ade84b3
+                - generic [ref=e222]: Pancake ice forms along Lake Superior shore after recent lak...
+                - generic [ref=e223]: 11 hours ago
+          - generic [ref=e224]:
+            - generic [ref=e225]:
+              - generic [ref=e226]: Trending Today
+              - link "See More" [ref=e227] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/news/trending-now
+                - generic [ref=e228]: See More
+                - img [ref=e229]
+            - generic [ref=e232]:
+              - link "NYPD harbor unit leaps into action to save man from frigid w... 17 hours ago" [ref=e233] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/videos/nypd-harbor-unit-leaps-into-action-to-save-man-from-frigid-water/0b963761-5423-4d61-bd90-b7e4dbea6fe7
+                - generic [ref=e235]: NYPD harbor unit leaps into action to save man from frigid w...
+                - generic [ref=e236]: 17 hours ago
+              - link "Girl rescued after sandbar collapse traps her 9 hours ago" [ref=e237] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/videos/girl-rescued-after-sandbar-collapse-traps-her/e7bbc640-5c8b-4c92-a80b-753ab3d92884
+                - generic [ref=e239]: Girl rescued after sandbar collapse traps her
+                - generic [ref=e240]: 9 hours ago
+              - link "What to do with leftover pumpkins 22 hours ago" [ref=e241] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/weather-news/what-to-do-with-leftover-pumpkins/1839856
+                - generic [ref=e243]: What to do with leftover pumpkins
+                - generic [ref=e244]: 22 hours ago
+        - generic [ref=e245]:
+          - generic [ref=e246]:
+            - generic [ref=e247]:
+              - generic [ref=e248]: Space and Astronomy
+              - link "See More" [ref=e249] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/space-news
+                - generic [ref=e250]: See More
+                - img [ref=e251]
+            - generic [ref=e254]:
+              - 'link "Top astronomy events in December: Supermoon, Geminid meteor ... 1 hour ago" [ref=e255] [cursor=pointer]':
+                - /url: https://www.accuweather.com/en/space-news/december-2025-astronomy-guide-supermoon-geminids-and-the-months-best-sky-events/1838343
+                - generic [ref=e257]: "Top astronomy events in December: Supermoon, Geminid meteor ..."
+                - generic [ref=e258]: 1 hour ago
+              - link "NASA rover discovers 'mini lightning' on Mars 14 hours ago" [ref=e259] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/space-news/nasa-rover-discovers-mini-lightning-on-mars/1840024
+                - generic [ref=e261]: NASA rover discovers 'mini lightning' on Mars
+                - generic [ref=e262]: 14 hours ago
+              - 'link "Pick your winter: solar vs. meteorological vs. astronomical 1 day ago" [ref=e263] [cursor=pointer]':
+                - /url: https://www.accuweather.com/en/videos/pick-your-winter-solar-vs-meteorological-vs-astronomical/a14e1731-80c3-4da4-adff-22eb28fbb04d
+                - generic [ref=e265]: "Pick your winter: solar vs. meteorological vs. astronomical"
+                - generic [ref=e266]: 1 day ago
+          - generic [ref=e267]:
+            - generic [ref=e268]:
+              - generic [ref=e269]: Climate Reports
+              - link "See More" [ref=e270] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/climate
+                - generic [ref=e271]: See More
+                - img [ref=e272]
+            - generic [ref=e275]:
+              - link "Sea level rise puts hazardous sites and New Jersey at dispro... 4 days ago" [ref=e276] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/videos/sea-level-rise-puts-hazardous-sites-and-new-jersey-at-disproportionate-risks-of-flooding/41b17235-42e7-491a-ab32-4a3066bb16f6
+                - generic [ref=e278]: Sea level rise puts hazardous sites and New Jersey at dispro...
+                - generic [ref=e279]: 4 days ago
+              - link "How extreme weather is making plastic pollution more hazardo... 4 days ago" [ref=e280] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/climate/how-extreme-weather-is-making-plastic-pollution-more-mobile-more-persistent-and-more-hazardous/1838976
+                - generic [ref=e282]: How extreme weather is making plastic pollution more hazardo...
+                - generic [ref=e283]: 4 days ago
+              - link "Global demand for rare earths is wreaking havoc on river sys... 6 days ago" [ref=e284] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/climate/global-demand-for-rare-earths-is-wreaking-havoc-on-one-of-asias-mightiest-river-systems/1838530
+                - generic [ref=e286]: Global demand for rare earths is wreaking havoc on river sys...
+                - generic [ref=e287]: 6 days ago
+          - generic [ref=e288]:
+            - generic [ref=e290]: Invisible Iceberg
+            - generic [ref=e292]:
+              - 'link "Invisible Iceberg: Weather & The 9/11 Terrorist Attacks Jan 15, 2025" [ref=e293] [cursor=pointer]':
+                - /url: https://www.accuweather.com/en/videos/invisible-iceberg-weather-the-9-11-terrorist-attacks/0343f4fe-8d09-4114-8f7e-a2221469ac37
+                - generic [ref=e295]: "Invisible Iceberg: Weather & The 9/11 Terrorist Attacks"
+                - generic [ref=e296]: Jan 15, 2025
+              - 'link "Invisible Iceberg: A Chill Freezes Birds and Transforms Euro... Aug 5, 2025" [ref=e297] [cursor=pointer]':
+                - /url: https://www.accuweather.com/en/videos/invisible-iceberg-a-chill-freezes-birds-and-transforms-europe/e38fd681-dcde-4812-90db-e1858ee10d89
+                - generic [ref=e299]: "Invisible Iceberg: A Chill Freezes Birds and Transforms Euro..."
+                - generic [ref=e300]: Aug 5, 2025
+              - link "AccuWeather founder Dr. Joel Myers discusses his book" [ref=e301] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/weather-news/accuweather-founder-dr-joel-myers-discusses-his-book-invisible-iceberg-when-climate-and-weather-shaped-history/1611692
+                - generic [ref=e303]: AccuWeather founder Dr. Joel Myers discusses his book
+      - generic [ref=e304]:
+        - heading "Around the Globe" [level=2] [ref=e305]:
+          - paragraph [ref=e306]: Around the Globe
+        - link "Hurricane Tracker" [ref=e307] [cursor=pointer]:
+          - /url: /en/hurricane
+          - heading "Hurricane Tracker" [level=3] [ref=e308]
+          - img [ref=e309]
+        - link "Severe Weather" [ref=e311] [cursor=pointer]:
+          - /url: /en/il/severe-weather
+          - heading "Severe Weather" [level=3] [ref=e312]
+          - img [ref=e313]
+        - link "Radar & Maps" [ref=e315] [cursor=pointer]:
+          - /url: /en/il/central-district/weather-radar
+          - heading "Radar & Maps" [level=3] [ref=e316]
+          - img [ref=e317]
+        - link "News" [ref=e319] [cursor=pointer]:
+          - /url: /en/weather-news
+          - heading "News" [level=3] [ref=e320]
+          - img [ref=e321]
+        - link "Video" [ref=e323] [cursor=pointer]:
+          - /url: /en/videos
+          - heading "Video" [level=3] [ref=e324]
+          - img [ref=e325]
+    - generic [ref=e328]:
+      - iframe [ref=e331]:
+        
+      - generic [ref=e332]:
+        - generic [ref=e333]:
+          - paragraph [ref=e334]: Top Stories
+          - link "Winter Weather Winter storm to ring in December, bring snow from Midwest to Northeast 2 hours ago" [ref=e335] [cursor=pointer]:
+            - /url: https://www.accuweather.com/en/winter-weather/winter-storm-to-ring-in-december-from-midwest-to-northeast-bringing-travel-disrupting-heavy-snow/1839522
+            - generic [ref=e336]:
+              - paragraph [ref=e337]: Winter Weather
+              - paragraph [ref=e338]: Winter storm to ring in December, bring snow from Midwest to Northeast
+              - paragraph [ref=e339]: 2 hours ago
+          - link "Winter Weather Potential weekend snow in eastern US to follow polar vortex 3 hours ago" [ref=e340] [cursor=pointer]:
+            - /url: https://www.accuweather.com/en/winter-weather/potential-weekend-snow-in-eastern-us-to-follow-1st-of-three-polar-vortex-episodes/1839689
+            - generic [ref=e341]:
+              - paragraph [ref=e342]: Winter Weather
+              - paragraph [ref=e343]: Potential weekend snow in eastern US to follow polar vortex
+              - paragraph [ref=e344]: 3 hours ago
+          - link "Winter Weather Record snow hits Midwest, snarling post-Thanksgiving travel 1 day ago" [ref=e345] [cursor=pointer]:
+            - /url: https://www.accuweather.com/en/winter-weather/record-snow-hits-midwest-snarling-post-thanksgiving-travel/1839706
+            - generic [ref=e346]:
+              - paragraph [ref=e347]: Winter Weather
+              - paragraph [ref=e348]: Record snow hits Midwest, snarling post-Thanksgiving travel
+              - paragraph [ref=e349]: 1 day ago
+          - link "Winter Weather New snow to roll through the Rockies, including Denver 5 hours ago" [ref=e350] [cursor=pointer]:
+            - /url: https://www.accuweather.com/en/winter-weather/new-snow-to-roll-through-the-rockies-including-denver-this-week/1839853
+            - generic [ref=e351]:
+              - paragraph [ref=e352]: Winter Weather
+              - paragraph [ref=e353]: New snow to roll through the Rockies, including Denver
+              - paragraph [ref=e354]: 5 hours ago
+          - link "Severe Weather More than 1,100 killed as deadly storms cause flooding across Asia 1 day ago" [ref=e355] [cursor=pointer]:
+            - /url: https://www.accuweather.com/en/severe-weather/more-than-1100-killed-as-deadly-storms-cause-flooding-and-landslides-across-asia/1839670
+            - generic [ref=e356]:
+              - paragraph [ref=e357]: Severe Weather
+              - paragraph [ref=e358]: More than 1,100 killed as deadly storms cause flooding across Asia
+              - paragraph [ref=e359]: 1 day ago
+          - link "More Stories" [ref=e360] [cursor=pointer]:
+            - /url: https://www.accuweather.com/en/weather-news
+        - generic [ref=e361]:
+          - paragraph [ref=e362]: Forecast Feed
+          - link "Winter is alive and well from the Midwest to Northeast 6 hours ago 7:00" [ref=e363] [cursor=pointer]:
+            - /url: https://www.accuweather.com/en/videos/winter-is-alive-and-well-from-the-midwest-to-northeast/0ca5bc75-0cfe-4a7a-9b15-5fd6fe6955a1
+            - generic [ref=e367]:
+              - paragraph [ref=e368]: Winter is alive and well from the Midwest to Northeast
+              - generic [ref=e369]:
+                - generic [ref=e370]: 6 hours ago
+                - generic [ref=e371]: 7:00
+        - generic [ref=e372]:
+          - paragraph [ref=e373]: Viral Weather
+          - link "\"What's up?\" Bison approaches car in close encounter in Canada 1 day ago 0:21" [ref=e374] [cursor=pointer]:
+            - /url: https://www.accuweather.com/en/videos/whats-up-bison-approaches-car-in-close-encounter-in-canada/835e4f17-6ee0-48c5-adea-2e066a890098
+            - generic [ref=e378]:
+              - paragraph [ref=e379]: "\"What's up?\" Bison approaches car in close encounter in Canada"
+              - generic [ref=e380]:
+                - generic [ref=e381]: 1 day ago
+                - generic [ref=e382]: 0:21
+          - link "Frozen sand shaped into unique formations along a beach in Michigan 1 day ago 0:41" [ref=e383] [cursor=pointer]:
+            - /url: https://www.accuweather.com/en/videos/frozen-sand-shaped-into-unique-formations-along-a-beach-in-michigan/b57fd635-a3a8-40a0-bf58-3caf6d92e03d
+            - generic [ref=e387]:
+              - paragraph [ref=e388]: Frozen sand shaped into unique formations along a beach in Michigan
+              - generic [ref=e389]:
+                - generic [ref=e390]: 1 day ago
+                - generic [ref=e391]: 0:41
+          - link "Rare ribbon eel spotted by divers off the coast of Indonesia 1 day ago 0:13" [ref=e392] [cursor=pointer]:
+            - /url: https://www.accuweather.com/en/videos/rare-ribbon-eel-spotted-by-divers-off-the-coast-of-indonesia/cb9b3c27-5165-4719-b9ae-1afe47a0525e
+            - generic [ref=e396]:
+              - paragraph [ref=e397]: Rare ribbon eel spotted by divers off the coast of Indonesia
+              - generic [ref=e398]:
+                - generic [ref=e399]: 1 day ago
+                - generic [ref=e400]: 0:13
+      - generic [ref=e403]:
+        - paragraph [ref=e404]: Featured Stories
+        - link "Travel TSA adds $45 fee for travelers without REAL ID 1 hour ago" [ref=e405] [cursor=pointer]:
+          - /url: https://www.accuweather.com/en/travel/tsa-adds-45-fee-for-travelers-without-real-id/1840122
+          - generic [ref=e406]:
+            - paragraph [ref=e407]: Travel
+            - paragraph [ref=e408]: TSA adds $45 fee for travelers without REAL ID
+            - paragraph [ref=e409]: 1 hour ago
+        - 'link "Astronomy Meteorological winter vs. astronomical winter: When do they start? 22 hours ago" [ref=e410] [cursor=pointer]':
+          - /url: https://www.accuweather.com/en/space-news/why-meteorological-winter-starts-before-astronomical-winter/1717984
+          - generic [ref=e411]:
+            - paragraph [ref=e412]: Astronomy
+            - paragraph [ref=e413]: "Meteorological winter vs. astronomical winter: When do they start?"
+            - paragraph [ref=e414]: 22 hours ago
+        - 'link "Astronomy See it: NASA’s asteroid-chasing spacecraft slingshots past Earth 19 hours ago" [ref=e415] [cursor=pointer]':
+          - /url: https://www.accuweather.com/en/space-news/see-it-nasas-asteroid-chasing-spacecraft-slingshots-past-earth/1839929
+          - generic [ref=e416]:
+            - paragraph [ref=e417]: Astronomy
+            - paragraph [ref=e418]: "See it: NASA’s asteroid-chasing spacecraft slingshots past Earth"
+            - paragraph [ref=e419]: 19 hours ago
+        - link "Weather News Taps may run dry in this country; water crisis can be seen from space 19 hours ago" [ref=e420] [cursor=pointer]:
+          - /url: https://www.accuweather.com/en/weather-news/taps-may-run-dry-in-this-country-where-the-water-crisis-is-so-severe-it-can-be-seen-from-space/1839987
+          - generic [ref=e421]:
+            - paragraph [ref=e422]: Weather News
+            - paragraph [ref=e423]: Taps may run dry in this country; water crisis can be seen from space
+            - paragraph [ref=e424]: 19 hours ago
+        - 'link "Astronomy Top astronomy events in December: Supermoon, Geminid meteor shower 1 hour ago" [ref=e425] [cursor=pointer]':
+          - /url: https://www.accuweather.com/en/space-news/december-2025-astronomy-guide-supermoon-geminids-and-the-months-best-sky-events/1838343
+          - generic [ref=e426]:
+            - paragraph [ref=e427]: Astronomy
+            - paragraph [ref=e428]: "Top astronomy events in December: Supermoon, Geminid meteor shower"
+            - paragraph [ref=e429]: 1 hour ago
+  - generic [ref=e432]:
+    - link "World" [ref=e433] [cursor=pointer]:
+      - /url: /en/world-weather
+    - img [ref=e434]
+    - link "Middle East" [ref=e436] [cursor=pointer]:
+      - /url: /en/middle-east-weather
+    - img [ref=e437]
+    - link "Israel" [ref=e439] [cursor=pointer]:
+      - /url: /en/il/israel-weather
+    - img [ref=e440]
+    - link "Central District" [ref=e442] [cursor=pointer]:
+      - /url: /en/il/m/central-district-weather
+    - img [ref=e443]
+    - link "Rosh HaAyin" [ref=e445] [cursor=pointer]:
+      - /url: /en/il/rosh-haayin/212575/weather-forecast/212575
+  - generic [ref=e446]:
+    - generic [ref=e449]:
+      - generic [ref=e450]:
+        - generic [ref=e451]:
+          - generic [ref=e452]: Company
+          - generic [ref=e453]:
+            - link "Proven Superior Accuracy™" [ref=e454] [cursor=pointer]:
+              - /url: https://corporate.accuweather.com/
+            - link "About AccuWeather" [ref=e455] [cursor=pointer]:
+              - /url: https://corporate.accuweather.com/company/about-us/
+            - link "Digital Advertising" [ref=e456] [cursor=pointer]:
+              - /url: https://advertising.accuweather.com/for-advertising/digital-advertising/
+            - link "Careers" [ref=e457] [cursor=pointer]:
+              - /url: https://corporate.accuweather.com/company/careers/
+            - link "Press" [ref=e458] [cursor=pointer]:
+              - /url: https://corporate.accuweather.com/newsroom/press-releases/
+            - link "Contact Us" [ref=e459] [cursor=pointer]:
+              - /url: /en/contact
+        - generic [ref=e460]:
+          - link [ref=e461] [cursor=pointer]:
+            - /url: https://www.facebook.com/AccuWeather
+            - img [ref=e462]
+          - link [ref=e466] [cursor=pointer]:
+            - /url: https://twitter.com/BreakingWeather
+            - img [ref=e467]
+      - generic [ref=e472]:
+        - generic [ref=e473]: Products & Services
+        - generic [ref=e474]:
+          - link "For Business" [ref=e475] [cursor=pointer]:
+            - /url: https://afb.accuweather.com/
+          - link "For Partners" [ref=e476] [cursor=pointer]:
+            - /url: https://partners.accuweather.com/
+          - link "For Advertising" [ref=e477] [cursor=pointer]:
+            - /url: https://advertising.accuweather.com/
+          - link "AccuWeather APIs" [ref=e478] [cursor=pointer]:
+            - /url: https://developer.accuweather.com/
+          - link "AccuWeather Connect" [ref=e479] [cursor=pointer]:
+            - /url: https://afb.accuweather.com/accuweather-connect-and-content-syndication
+          - generic: RealFeel® and RealFeel Shade™
+          - link "Personal Weather Stations" [ref=e480] [cursor=pointer]:
+            - /url: https://app.accuweather.com/products/ambient-weather-stations
+      - generic [ref=e481]:
+        - generic [ref=e482]:
+          - generic [ref=e483]: Apps & Downloads
+          - generic [ref=e484]:
+            - link "iPhone App" [ref=e485] [cursor=pointer]:
+              - /url: https://go.onelink.me/app/ef253ee1
+            - link "Android App" [ref=e486] [cursor=pointer]:
+              - /url: https://go.onelink.me/app/85d14e58
+            - link "See all Apps & Downloads" [ref=e487] [cursor=pointer]:
+              - /url: https://7482826.hs-sites.com/premium-plus
+        - generic [ref=e488]:
+          - generic [ref=e489]: Subscription Services
+          - generic [ref=e490]:
+            - link "AccuWeather Premium" [ref=e491] [cursor=pointer]:
+              - /url: https://wwwl.accuweather.com/premium_login.php
+            - link "AccuWeather Professional" [ref=e492] [cursor=pointer]:
+              - /url: https://wwwl.accuweather.com/pro_login.php
+      - generic [ref=e494]:
+        - generic [ref=e495]: More
+        - generic [ref=e496]:
+          - link "AccuWeather Ready" [ref=e497] [cursor=pointer]:
+            - /url: /en/accuweather-ready
+          - link "Business" [ref=e498] [cursor=pointer]:
+            - /url: /en/business
+          - link "Health" [ref=e499] [cursor=pointer]:
+            - /url: /en/health-wellness
+          - link "Hurricane" [ref=e500] [cursor=pointer]:
+            - /url: /en/hurricane
+          - link "Leisure and Recreation" [ref=e501] [cursor=pointer]:
+            - /url: /en/leisure-recreation
+          - link "Severe Weather" [ref=e502] [cursor=pointer]:
+            - /url: /en/il/severe-weather
+          - link "Space and Astronomy" [ref=e503] [cursor=pointer]:
+            - /url: /en/space-news
+          - link "Sports" [ref=e504] [cursor=pointer]:
+            - /url: /en/sports
+          - link "Travel" [ref=e505] [cursor=pointer]:
+            - /url: /en/travel
+          - link "Weather News" [ref=e506] [cursor=pointer]:
+            - /url: /en/weather-news
+    - generic [ref=e507]:
+      - generic [ref=e508]: © 2025 AccuWeather, Inc. "AccuWeather" and sun design are registered trademarks of AccuWeather, Inc. All Rights Reserved.
+      - generic [ref=e509]:
+        - link "Terms of Use" [ref=e510] [cursor=pointer]:
+          - /url: /en/legal
+        - text: "|"
+        - link "Privacy Policy" [ref=e511] [cursor=pointer]:
+          - /url: /en/privacy
+        - text: "|"
+        - link "Cookie Policy" [ref=e512] [cursor=pointer]:
+          - /url: /en/cookiepolicy
+        - text: "|"
+        - link "Data Sources" [ref=e513] [cursor=pointer]:
+          - /url: /en/data-sources
+```
